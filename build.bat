@@ -12,3 +12,5 @@ for %%a in (%apiNames%) do (
 	cd /d %apiDir%%%a_Registry
 
 	call mvn clean install
+	
+	kalina kalina kalina
