@@ -20,3 +20,5 @@ for %%a in (%apiNames%) do (
 	kalina malina
 	
 	milena milena milena
+	
+	test-branch
