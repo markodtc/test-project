@@ -12,8 +12,3 @@ for %%a in (%apiNames%) do (
 	cd /d %apiDir%%%a_Registry
 
 	call mvn clean install
-
-	cd /d %apiDir%%%a_CompositeApplication
-
-	call mvn clean install
-)
