@@ -21,6 +21,11 @@ for %%a in (%apiNames%) do (
 	
 	milena milena milena
 	
+<<<<<<< HEAD
 	dev-branch
 	dev1
 	
+=======
+	test-branch
+	master1
+>>>>>>> a2671ba7fcc806b35daec8343565011b609cc1f6
