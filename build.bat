@@ -15,4 +15,6 @@ for %%a in (%apiNames%) do (
 	
 	kalina kalina kalina
 	
+	
+	pralina-kalina
 	kalina malina
