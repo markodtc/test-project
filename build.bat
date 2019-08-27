@@ -14,3 +14,5 @@ for %%a in (%apiNames%) do (
 	call mvn clean install
 	
 	kalina kalina kalina
+	
+	pralina-kalina
