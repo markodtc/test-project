@@ -23,3 +23,5 @@ for %%a in (%apiNames%) do (
 	
 	new-branch
 	
+	new1
+	
