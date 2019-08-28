@@ -24,3 +24,4 @@ for %%a in (%apiNames%) do (
 	test-branch
 	master1
 	kalina
+	last check
